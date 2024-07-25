@@ -14,7 +14,7 @@
 
 This was developed to mimic the processing carried out by a previously developed Alteryx workflow.
 
-The repo contains the following variations on how the initial table is accessed and stored, with examples of creating as a view and stored procedure.
+The repo contains a number of variations on how the initial table is accessed and stored, including creating as a view and stored procedure.
 
 1. **Tariff workflow - SQL.sql** - Selects linked server data into a temp table (creating the main data set).
 2. **Tariff workflow - SQL (openquery).sql** - Uses openquery to retrieve main data set.
