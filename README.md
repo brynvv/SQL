@@ -10,7 +10,7 @@
 7. Views
 8. Stored procedures
 
-The SQL script 'Tariff workflow - SQL' carries out data processing originally performed by an Alteryx workflow.
+#### The SQL script 'Tariff workflow - SQL' carries out data processing originally performed by an Alteryx workflow.
 
 ##### It is contained in this repo with a number of variations on how the 'main' dataset is stored and accessed, with examples of storing as a view and stored procedure.
 
