@@ -12,7 +12,7 @@
 
 #### The SQL script 'Tariff workflow - SQL' carries out data processing on a table selected from a linked server.
 
-This was developed to mimic the processing carried out by a previously developed ALteryx workflow.
+This was developed to mimic the processing carried out by a previously developed Alteryx workflow.
 
 The repo contains the following variations on how the initial table is accessed and stored, with examples of creating as a view and stored procedure.
 
