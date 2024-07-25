@@ -14,8 +14,8 @@
 
 ##### It is contained in this repo with a number of variations on how the 'main' dataset is stored and accessed, with examples of storing as a view and stored procedure.
 
-1. Tariff workflow - SQL.sql - Selects linked server data into a temp table (for main data set).
-2. Tariff workflow - SQL (openquery).sql - Uses openquery to retrieve main data set.
-3. Testview1.sql - Since temp tables are not compatible with views, creates a view for the second view to select from.
-4. Testview2.sql - Selects from first view.
-5. Test_SP_Tariff.sql - Like 1., except a stored procedure.
+1. *Tariff workflow - SQL.sql* - Selects linked server data into a temp table (for main data set).
+2. *Tariff workflow - SQL (openquery).sql* - Uses openquery to retrieve main data set.
+3. *Testview1.sql* - Since temp tables are not compatible with views, creates a view for the second view to select from.
+4. *Testview2.sql* - Selects from first view.
+5. *Test_SP_Tariff.sql* - Like 1., except a stored procedure.
