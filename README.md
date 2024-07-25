@@ -10,9 +10,11 @@
 7. Views
 8. Stored procedures
 
-#### The SQL script 'Tariff workflow - SQL' carries out data processing originally performed by an Alteryx workflow.
+#### The SQL script 'Tariff workflow - SQL' carries out data processing on a table selected from a linked server.
 
-It is contained in this repo with a number of variations on how the 'main' dataset is stored and accessed, with examples of creating as a view and stored procedure.
+This was developed to mimic the processing carried out by a previously developed ALteryx workflow.
+
+The repo contains the following variations on how the initial table is accessed and stored, with examples of creating as a view and stored procedure.
 
 1. **Tariff workflow - SQL.sql** - Selects linked server data into a temp table (creating the main data set).
 2. **Tariff workflow - SQL (openquery).sql** - Uses openquery to retrieve main data set.
